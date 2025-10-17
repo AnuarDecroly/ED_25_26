@@ -20,3 +20,6 @@ Cuando tenia 9 años Nintendo saco la SuperNintendo ohhh my god
 Cuando tenia 14 años empece a programar en QBasic.
 
 Despues aprendi c++ y en la universidad di el salto a Java y Booommm!!!
+
+
+Otro maldito bug sorry
